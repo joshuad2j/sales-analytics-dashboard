@@ -1,0 +1,33 @@
+Dataset Source Note
+
+This project uses the Superstore retail sales dataset for analytical and dashboard development purposes.
+
+Dataset includes:
+
+Transactional Measures
+- Sales
+- Profit
+- Quantity
+- Discount
+
+Product Dimensions
+- Category
+- Sub-Category
+- Product Name
+- Product ID
+
+Geographic Dimensions
+- Country
+- Region
+- State
+- City
+
+Customer & Order Dimensions
+- Customer ID
+- Order ID
+- Order Date
+
+Data Preparation
+- Cleaned and transformed using SQL
+- Analytical views created for business analysis
+- Visualized in Power BI for dashboard reporting
